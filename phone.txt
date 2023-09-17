@@ -1,1 +1,7 @@
 phone created ok lets add some specs
+public static void m1()
+{
+--
+--
+--
+}
